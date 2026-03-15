@@ -1,0 +1,90 @@
+{
+  "sections": [
+    {
+      "title": "Продолжить обучение",
+      "type": "active_preview",
+      "items": []
+    },
+    {
+      "title": "Популярные за 30 дней",
+      "type": "grid_2x2",
+      "items": [
+        {
+          "id": "english-basic",
+          "title": "Английский язык",
+          "icon": "🇬🇧",
+          "gradient": "linear-gradient(145deg, #4158D0, #C850C0)",
+          "description": "С нуля до разговорного уровня"
+        },
+        {
+          "id": "abs-30",
+          "title": "Идеальный пресс",
+          "icon": "💪",
+          "gradient": "linear-gradient(145deg, #FF512F, #DD2476)",
+          "description": "30 дней до кубиков"
+        },
+        {
+          "id": "meditation",
+          "title": "Медитация",
+          "icon": "🧘",
+          "gradient": "linear-gradient(145deg, #11998e, #38ef7d)",
+          "description": "Осознанность за 30 дней"
+        },
+        {
+          "id": "python-beginner",
+          "title": "Python",
+          "icon": "🐍",
+          "gradient": "linear-gradient(145deg, #FDC830, #F37335)",
+          "description": "Основы программирования"
+        }
+      ]
+    },
+    {
+      "title": null,
+      "type": "wide_banner",
+      "items": [
+        {
+          "id": "drawing",
+          "title": "Рисование за 30 дней",
+          "subtitle": "Раскрой свой творческий потенциал",
+          "icon": "🎨",
+          "gradient": "linear-gradient(145deg, #8E2DE2, #4A00E0)"
+        }
+      ]
+    },
+    {
+      "title": "Для продуктивности",
+      "type": "grid_2x2",
+      "items": [
+        {
+          "id": "early-bird",
+          "title": "Ранний подъем",
+          "icon": "⏰",
+          "gradient": "linear-gradient(145deg, #FFD700, #FFA500)",
+          "description": "Просыпайся в 5 утра"
+        },
+        {
+          "id": "speed-reading",
+          "title": "Скорочтение",
+          "icon": "📚",
+          "gradient": "linear-gradient(145deg, #1e3c72, #2a5298)",
+          "description": "1000 слов в минуту"
+        },
+        {
+          "id": "memory",
+          "title": "Суперпамять",
+          "icon": "🧠",
+          "gradient": "linear-gradient(145deg, #834d9b, #d04ed6)",
+          "description": "Развитие памяти"
+        },
+        {
+          "id": "focus",
+          "title": "Фокус",
+          "icon": "🎯",
+          "gradient": "linear-gradient(145deg, #02aab0, #00cdac)",
+          "description": "Помодоро техника"
+        }
+      ]
+    }
+  ]
+}
